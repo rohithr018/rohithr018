@@ -46,8 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohithr018&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rohithr018&theme=tokyonight" alt="Streaks" / 
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohithr018&theme=tokyonight" alt="Streaks" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithr018&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
